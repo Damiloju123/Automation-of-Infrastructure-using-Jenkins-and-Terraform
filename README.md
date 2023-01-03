@@ -9,12 +9,12 @@ This document is about how to execute Terraform scripts automatically using Jenk
 I created an EC2 instance using Terraform and Jenkins in AWS cloud.
 
 # Prerequisites:
-Jenkins 
-Terraform
+- Jenkins 
+- Terraform
 
 # Terraform files
-main.tf
-variable.tf
+- main.tf
+- variable.tf
 
 # Steps: (AWS console)
 1. Create an IAM role to provision EC2 instance in AWS.
